@@ -445,8 +445,8 @@ function continueStatement(numero) {
     if(i===5) continue;
     else{
       suma = suma +2;
-      arr.push(sum);
+      arr.push(suma);
     }
   }
-  return sum;
+  return suma;
 }
